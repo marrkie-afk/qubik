@@ -1,0 +1,9 @@
+{
+  "name": "qubik-server",
+  "version": "1.0.0",
+  "description": "Qubik / BlockCraft 2.5D: статика + WebSocket-мультиплеер",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
